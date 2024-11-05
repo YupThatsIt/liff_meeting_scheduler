@@ -25,3 +25,8 @@ dist-ssr
 *.sw?
 # Local Netlify folder
 .netlify
+
+# Storybook
+*storybook.log
+.storybook
+src/stories
